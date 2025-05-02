@@ -44,7 +44,7 @@ Run the main script:
 - Windows OS (required for pycaw to control system audio)
 ## Demo
 
-Insert gif or link to demo
+https://github.com/user-attachments/assets/5356b03f-2867-4ce2-9d19-3ae6d6fb078e
 
 
 ## Acknowledgements
